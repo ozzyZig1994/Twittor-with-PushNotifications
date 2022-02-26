@@ -1,4 +1,4 @@
-# Notas:
+# Notes:
 
 This is a small express server ready to run and serve the public folder on the web.
 
@@ -9,6 +9,9 @@ cell phones. They can be used to promote a product or service, to invite subscri
 
 Send and receive push notifications, from backend configuration to how to delete subscriptions we are no longer interested in 
 subscriptions we are no longer interested in.
+
+
+![](./pushNotifications.png "pushNotifications")
 
 ```
 npm install
